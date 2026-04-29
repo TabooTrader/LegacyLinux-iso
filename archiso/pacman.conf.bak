@@ -119,8 +119,3 @@ Include = /etc/pacman.d/arcolinux-mirrorlist
 [arcolinux_repo_3party]
 SigLevel = Never
 Include = /etc/pacman.d/arcolinux-mirrorlist
-
-# === ORCA REPO - HIGHEST PRIORITY ===
-[orca_repo]
-SigLevel = Optional TrustAll
-Server = file:///home/chip/arcolinux-preservation/final-repo/orca_repo_flat

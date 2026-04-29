@@ -214,7 +214,7 @@ networkmanager-openconnect
 networkmanager-openvpn
 networkmanager-pptp
 networkmanager-vpnc
-networkmanager-qt
+networkmanager-qt5
 rtl8821cu-morrownr-dkms-git
 
 ###file management
@@ -419,7 +419,7 @@ mkinitcpio-openswap
 ###utilities-repo
 alacritty
 appstream
-appstream-qt
+appstream-qt5
 conky-lua-archers
 downgrade
 font-manager
@@ -538,6 +538,9 @@ linux-zen-headers
 ####                               CALAMARES
 ###########################################################################
 
+arco-calamares
+arconet-calamares-config
+arcolinux-system-installation-git
 #arcolinux-system-installation-dev-git
 arcolinux-welcome-app-git
 #arcolinuxd-welcome-app-git
